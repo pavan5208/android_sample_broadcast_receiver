@@ -1,0 +1,2 @@
+rootProject.name = "android_sample_broadcast_receiver"
+include ':app'
